@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-cli-tool",
+  "version": "1.0.0",
+  "description": "caesar-cipher tool on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgentRa/NodeJs-CLI-tool.git"
+  },
+  "keywords": [
+    "node.js",
+    "commander.js",
+    "streams",
+    "pipeline",
+    "fs-module",
+    "path-module"
+  ],
+  "author": "Agent_R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgentRa/NodeJs-CLI-tool/issues"
+  },
+  "homepage": "https://github.com/AgentRa/NodeJs-CLI-tool#readme",
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}
